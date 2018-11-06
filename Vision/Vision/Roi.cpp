@@ -3,9 +3,9 @@
 
 using namespace std;
 using namespace cv;
-int main()
+int ROI9()
 {
-	Mat srcImage = imread("");
+	Mat srcImage = imread("D:\\Project\\CV\\image\\990436704.jpg");
 	if (!srcImage.data)
 	{
 		cout << "¶ÁÈ¡Í¼Æ¬Ê§°Ü£¡" << endl;
