@@ -15,5 +15,5 @@ Vision/Vision/Vision.vcxproj.filters
 *.log
 *.temp
 *.tlog
-Vision/Vision/x64
-/x64
+Vision/Vision/x64/
+/x64/
